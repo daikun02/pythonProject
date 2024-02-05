@@ -1,0 +1,2 @@
+INFO     test123:base_case.py:14 ---登录功能测试开始---
+INFO     test123:base_case.py:18 ---登录功能测试结束---
